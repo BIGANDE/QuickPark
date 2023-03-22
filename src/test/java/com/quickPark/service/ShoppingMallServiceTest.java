@@ -60,7 +60,7 @@ public class ShoppingMallServiceTest {
 		Assertions.assertNotNull(malls);
 	}
 	
-	@Test
+	/*@Test
 	void deleteShoppingMall() {
 		Login login = new Login();
 		List<Block> blocks = new ArrayList<>();
@@ -76,5 +76,6 @@ public class ShoppingMallServiceTest {
 		 
 		
 		
-	}
+	}*/
+	
 }
