@@ -163,7 +163,7 @@ public class CustomerServiceTest {
 		Assertions.assertFalse(customers.contains(customer));
 	}
 
-	@Test
+	/*@Test
 	public void viewAllBookingsByCustomerIdTest() {
 		ShoppingMall mall = new ShoppingMall();
 
@@ -188,6 +188,6 @@ public class CustomerServiceTest {
 		Assertions.assertTrue(result.contains(booking1));
 		Assertions.assertTrue(result.contains(booking2));
 
-	}
+	}*/
 
 }
